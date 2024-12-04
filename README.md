@@ -10,5 +10,8 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/yaycha-app.git
-   cd yaycha-app
+   git clone https://github.com/Htooag/Yaycha.git
+   cd Yaycha
+   npm install
+   npm run dev
+`
